@@ -30,7 +30,7 @@ Contact us to make a better suggestion
 ![LightOTP_backend]("https://github.com/gitpetyr/LightOTP_backend")
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> How to contact us 
-![giyhub logo](https://github.com/sunlightlt/introduce-sunlightLT/blob/main/ph/R-C.png) bulibili.com/sunlightLT
+
 
 
 
