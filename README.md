@@ -19,3 +19,6 @@ Contact us to make a better suggestion
   <br/>
 </p>
 
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> Division of labor and contact information of members
+
+
