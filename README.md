@@ -85,10 +85,7 @@ mail:sunlihgtLT@outlook.com
 ![Blueprints](https://img.shields.io/badge/Blueprints-231AB5)
 ![WindowsForms](https://img.shields.io/badge/Windows_Forms-203185)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunlightLT)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunlightLT)
 
 
 
