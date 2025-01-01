@@ -8,7 +8,7 @@
   <samp>
     we are a <em>sunlightLT organization</em>. Specializes in collecting and developing excellent open source software.
   <br/> We are best at Python and C++. 
-    <br/> (<em></em>)Welcome to follow us.
+    <br/> (<em>sunlightLT</em>)Welcome to follow us.
       <br/>
 We are also working hard to learn and develop,
           <br/>
