@@ -8,11 +8,11 @@
   <samp>
     we are a <em>sunlightLT organization</em>. Specializes in collecting and developing excellent open source software.
   <br/> We are best at Python and C++. 
-    <br/> (<em>ex</em>)Fulltime student.
+    <br/> (<em></em>)Welcome to follow us.
       <br/>
-Creating games for fun, composing songs,
+We are also working hard to learn and develop,
           <br/>
-continuously learning, wanting to help the community
+Contact us to make a better suggestion
   </samp>
   <br/>
   <br/>
