@@ -84,6 +84,20 @@ mail:sunlihgtLT@outlook.com
 ![Blueprints](https://img.shields.io/badge/Blueprints-231AB5)
 ![WindowsForms](https://img.shields.io/badge/Windows_Forms-203185)
 
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/stats.png" width="35px" /> Some stats
+
+<!--START_SECTION:waka-->
+
+```text
+Week: 02 August, 2020 - 5 August, 2024
+
+c++        ██████████████████░░░░░░░   74.31 % 
+python     █░░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Other      █░░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Prolog     █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+go         █░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+```
+
 
 
 
