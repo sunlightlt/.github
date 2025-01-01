@@ -6,8 +6,8 @@
 
 <p align="center" >
   <samp>
-    My name is <em>sun12yyds</em>. I am a Fullstack 'n' mobile developer... 
-  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
+    we are a <em>sunlightLT organization</em>. Specializes in collecting and developing excellent open source software.
+  <br/> We are best at Python and C++. 
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
 Creating games for fun, composing songs,
@@ -18,6 +18,4 @@ continuously learning, wanting to help the community
   <br/>
   <br/>
 </p>
-
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%" alt=""/>
 
