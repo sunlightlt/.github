@@ -27,8 +27,7 @@ Contact us to make a better suggestion
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Our ongoing projects 
 
-![LightOTP_backend]("https://github.com/gitpetyr/LightOTP_backend")
-
+- [LightOTP_backend](https://github.com/gitpetyr/LightOTP_backend)  
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> How to contact us 
 
 bilibili:sunlightLT
