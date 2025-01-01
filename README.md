@@ -21,4 +21,6 @@ Contact us to make a better suggestion
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> Division of labor and contact information of members
 
+![github Logo](https://github.com/sunlightlt/introduce-sunlightLT/blob/main/ph/3.png)
+
 
