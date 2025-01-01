@@ -33,6 +33,11 @@ Contact us to make a better suggestion
 <a href="https://twitter.com/vaporjawn">
   <img align="left" alt="Victor Williams | Twitter" width="sunlightLT" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+</a>
+<a href="#">
+  <img align="left" alt="'outlook" width="sunlightLT" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+<a href="https://leetcode.com/lovelybuggies/">
 
 
 
