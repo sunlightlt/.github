@@ -30,6 +30,9 @@ Contact us to make a better suggestion
 ![LightOTP_backend]("https://github.com/gitpetyr/LightOTP_backend")
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> How to contact us 
+<a href="https://twitter.com/vaporjawn">
+  <img align="left" alt="Victor Williams | Twitter" width="sunlightLT" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 
 
 
